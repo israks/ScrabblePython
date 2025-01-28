@@ -1,6 +1,9 @@
-Ceci est un jeu Scrabble codé par les étudiantes Isra KUCUKSULLU et RAGGOO Preshttibye en L1 IMA à l'Université Grenoble Alpes.
+Ceci est un jeu Scrabble codé par les étudiantes Isra KUCUKSULLU et RAGGOO Preshttibye 
+en L1 IMA à l'Université Grenoble Alpes, en Décembre 2020 pour un projet en 
+INF101 - UE Méthodes informatiques et techniques de programmation.
 
-Pour jouer, il faut executer le fichier testpygamefinal.py
+
+Pour jouer, il faut executer le fichier Scrabble.py
 
 
 PS : Il contient encore des erreurs à parfaire plus tard
